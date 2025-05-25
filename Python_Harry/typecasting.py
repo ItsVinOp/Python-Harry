@@ -11,4 +11,3 @@ c = int(b)
 print(c)
 print(type(c))
 
-print(d)
