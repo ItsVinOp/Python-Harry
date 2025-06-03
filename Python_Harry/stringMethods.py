@@ -1,4 +1,4 @@
-s = "vianak shirke"
+s = "vinayak shirke"
 
 # name[0] = "N" 
 
