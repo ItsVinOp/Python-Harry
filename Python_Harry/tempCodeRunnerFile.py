@@ -1,3 +1,4 @@
-print(name[0:3])
-# print(name[2:7]) #2 se start and n-1 end
-# print(name[2:-0]) 
+name = "Harry"
+# score = 100
+
+# print(template.format(name=name, score=score))
